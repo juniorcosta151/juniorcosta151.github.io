@@ -1,0 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Define Roboto como a fonte padrão */
+}
+
+.fundoContato{
+    background-image: url("/assets/images/fundo.jpg");
+}

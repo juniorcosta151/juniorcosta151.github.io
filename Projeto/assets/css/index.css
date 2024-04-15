@@ -1,0 +1,9 @@
+
+body {
+    font-family: 'Roboto', sans-serif; /* Define Roboto como a fonte padrão */
+}
+
+
+section{
+    background-image: url("/assets/images/fundo.jpg");
+}
